@@ -1,12 +1,12 @@
-<h1>Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ray</h1>
+<h1>Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Abnish</h1>
 <p>
-  <a href="https://www.linkedin.com/in/abhishek-ray95/">
-    <img src="https://img.shields.io/badge/-Abhishek Ray-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-ray95/" />
+  <a href="https://www.linkedin.com/in/abnish-07/">
+    <img src="https://img.shields.io/badge/-Abhishek Ray-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abnish-07/" />
   </a>
-  <a href="mailto:abhi.22.ray@gmail.com">
-    <img src="https://img.shields.io/badge/-abhi.22.ray@gmail.com-d14836?style=plastic&logo=Gmail&logoColor=white"/>
+  <a href="mailto:akp12556@gmail.com">
+    <img src="https://img.shields.io/badge/-akp12556@gmail.com-d14836?style=plastic&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/AbhishekRay94">
+  <a href="https://twitter.com/abnish07">
     <img src="https://img.shields.io/badge/-abhishekray-blue?style=plastic&logo=Twitter&logoColor=white" />
   </a>
   
