@@ -13,14 +13,14 @@
 </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**ray2294/ray2294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-!-->
+
 #### About Me:
 
-- 🔭 After nearly 2 years of fruitful work in the IT Service Industry working in a Technical Consulting role for MNCs like TCS and Infosys, I wanted to be in closer proximity of what drove the large software systems. I wanted to write Code.
-- 🌱 6 Months and multiple full stack projects later, my desire to do meaningful work has only increased. From staying up late to solve a pesky bug to testing stuff for the nth time, I truly love the process that goes into becoming a good coder. 
-- 💻 To see what kind of projects I've worked on, please head over to https://abnish-kumar.vercel.app/
+    Nice to meet you! I'm a React developer from Patna. I love writing code for in MERN stack, with my main passion being writing highly-performant, pixel perfect user interfaces.
+
+Always curious to learn New technology. More enthusiast in web development. 
+
+- 💻 You can check my projects here... https://abnish-kumar.vercel.app/
 
 #### Tech Stack:
 
