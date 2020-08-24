@@ -16,7 +16,7 @@
 
 #### About Me:
 
-    Nice to meet you! I'm a React developer from Patna. I love writing code for in MERN stack, with my main passion being writing highly-performant, pixel perfect user interfaces.
+Nice to meet you! I'm a React developer from Patna. I love writing code for in MERN stack, with my main passion being writing highly-performant, pixel perfect user interfaces.
 
 Always curious to learn New technology. More enthusiast in web development. 
 
